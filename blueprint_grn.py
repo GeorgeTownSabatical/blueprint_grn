@@ -8,6 +8,8 @@
 # - Predicts 5 iris features from module activities via a linear head.
 # - Compares to a dummy observed iris feature vector.
 #
+# Authors: ChatGPT and Jacob Thomas Messer
+#
 # You can replace the simulated genotype and observed features with real data later.
 
 import json
